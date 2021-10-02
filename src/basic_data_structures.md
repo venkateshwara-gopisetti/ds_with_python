@@ -1,7 +1,7 @@
 ## Content
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="400" height="400">
 
-Data structures are different methods/concepts of storing data in a programming language.
+## Data structures are different methods/concepts of storing data in a programming language.
 
 General classification - 
 1. [Linear Structures](#Linear Structures)
