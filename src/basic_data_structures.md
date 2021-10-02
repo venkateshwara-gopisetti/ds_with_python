@@ -15,3 +15,5 @@ General classification -
     2. Heap
     3. Hash Table
     4. Graph
+
+## Linear Structures
