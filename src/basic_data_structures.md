@@ -10,7 +10,7 @@ General classification -
     3. Stack
     4. Queue
     5. Matrix
-2. Non-Linear Structures
+2. [Non-Linear Structures](#Non-Linear Structures)
     1. Binary Tree
     2. Heap
     3. Hash Table
