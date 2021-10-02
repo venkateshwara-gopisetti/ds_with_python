@@ -4,7 +4,7 @@
 Data structures are different methods/concepts of storing data in a programming language.
 
 General classification - 
-1. [Linear Structures]
+1. [Linear Structures](#Linear Structures)
     1. Array
     2. Linked List
     3. Stack
