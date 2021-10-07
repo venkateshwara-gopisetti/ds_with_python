@@ -24,4 +24,4 @@ The basic operations supported by an array are as stated below −
  arrayName = array(typecode, [Initializers])
 ```
 
-[Back to Contents](../basic_data_structures.md)
+[Back to Contents](/../../blob/basic_data_structures.md)
