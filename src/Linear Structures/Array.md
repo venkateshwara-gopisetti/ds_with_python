@@ -24,5 +24,5 @@ The basic operations supported by an array are as stated below −
  arrayName = array(typecode, [Initializers])
 ```
 
-[Back to Home](/../../README.md)
+[Back to Home](/../../blob/master/README.md)
 =======
