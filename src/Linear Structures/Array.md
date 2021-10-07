@@ -1,4 +1,4 @@
-# Array [&uarr;](..\basic_data_structures.md)
+# Array [&uarr;](../basic_data_structures.md)
 
 Array is a container which can hold a fix number of items and these items should be of the same type. Most of the data structures make use of arrays to implement their algorithms. Following are the important terms to understand the concept of Array are as follows −
 
